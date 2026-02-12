@@ -1,0 +1,28 @@
+.container {
+  padding: 40px 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 420px;
+}
+
+.input {
+  background: #111827;
+  border: 1px solid #1f2937;
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+}
+
+.botao {
+  background: #38bdf8;
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
