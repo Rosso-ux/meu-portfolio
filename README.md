@@ -1,32 +1,45 @@
-# Portfólio Pessoal – React
+# Portfólio Pessoal – Guilherme Rosso
 
-Portfólio pessoal desenvolvido em React para apresentação de projetos e habilidades.
+Portfólio desenvolvido em React para apresentar projetos, habilidades e informações de contato de forma profissional.
 
-## Tecnologias utilizadas
+Tecnologias Utilizadas
+React
+JavaScript (ES6+)
+CSS
+Componentização
+React Router
+Loading
+Git e GitHub
 
-- React
-- JavaScript
-- CSS Modules
-- Componentização
-- React Hooks
+# Como rodar o projeto localmente
 
-## Como rodar o projeto
-
-1. Instalar dependências:
-
+git clone https://github.com/Rosso-ux/meu-portfolio.git
+cd meu-portfolio
 npm install
-
-2. Iniciar aplicação:
-
 npm start
 
-## Deploy
+Acesse: http://localhost:3000
 
-Versão online:
+# Deploy / Versão online
+
 meu-portfolio-indol-seven.vercel.app
 
-## Projetos apresentados
+# Projetos apresentados :
 
-- Portal de Conteúdo
-- Micro Frontends com Module Federation
-- Blog em Next.js
+# Portal de Conteúdo
+
+Aplicação em React com lazy loading.
+Tecnologias: JavaScript, CSS, React
+🔗 https://github.com/Rosso-ux/portal
+
+# Micro Frontends
+
+Arquitetura com Webpack 5 e Module Federation.
+Tecnologias: React, Webpack, Babel
+🔗 https://github.com/Rosso-ux/micro-frontends-mf
+
+# Blog em Next.js
+
+Blog com exibição dinâmica de artigos.
+Tecnologias: JavaScript, React, Next.js
+🔗 https://github.com/Rosso-ux/blog-next.js
