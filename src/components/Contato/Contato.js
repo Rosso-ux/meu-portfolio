@@ -25,18 +25,6 @@ export default function Contato() {
             </a>
           </p>
         </div>
-        <div>
-          <p>
-            LinkedIn:{" "}
-            <a
-              href="https://www.linkedin.com/in/gui-rosso"
-              target="_blank"
-              rel="noreferrer"
-            >
-              github.com/Rosso-ux
-            </a>
-          </p>
-        </div>
       </form>
     </section>
   );

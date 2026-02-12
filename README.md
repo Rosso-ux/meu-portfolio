@@ -23,7 +23,7 @@ npm start
 ## Deploy
 
 Versão online:
-COLOCAR_LINK_AQUI
+meu-portfolio-indol-seven.vercel.app
 
 ## Projetos apresentados
 
